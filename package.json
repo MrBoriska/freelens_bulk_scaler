@@ -1,0 +1,9 @@
+{
+  "name": "bulk-scaler",
+  "version": "1.0.0",
+  "description": "Bulk scaling for deployments",
+  "renderer": "renderer.js",
+  "engines": {
+    "freelens": "^1.8.1"
+  }
+}
