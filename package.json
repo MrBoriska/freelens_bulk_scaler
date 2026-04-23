@@ -1,7 +1,7 @@
 {
   "name": "bulk-scaler",
   "version": "1.0.0",
-  "description": "Bulk scaling for deployments",
+  "description": "A FreeLens extension to bulk scale Kubernetes Deployments to 0 or 1 with a single click.",
   "renderer": "renderer.js",
   "engines": {
     "freelens": "^1.8.1"
